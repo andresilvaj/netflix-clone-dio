@@ -1,6 +1,6 @@
 # Olá, tudo bom?
 
-Esse é o repositório dedicado ao projeto de um site clone da Netflix que construi que construí com a ajuda do curso que fiz na https://digitalinnovation.one/
+Esse é o repositório dedicado ao projeto de um site clone da Netflix que construí com a ajuda do curso que fiz na https://digitalinnovation.one/
 
 ### Foram utilizadas tecnologias simples como:
 
